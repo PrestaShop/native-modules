@@ -31,3 +31,6 @@ v1.4.3:
 v2.0.0:
     min: 8.0.0
     max: null
+v2.0.1:
+    min: 8.0.0
+    max: null
