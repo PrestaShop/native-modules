@@ -85,3 +85,6 @@ v6.0.1:
 v6.0.2:
     min: 8.1.0
     max: null
+v6.0.3:
+    min: 8.1.0
+    max: null
