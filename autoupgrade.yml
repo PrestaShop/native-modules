@@ -112,6 +112,9 @@ v4.16.0:
 v4.16.1:
     min: 1.7.0.0
     max: null
+v4.16.2:
+    min: 1.7.0.0
+    max: null
 v4.2.0:
     min: 1.6.0.0
     max: null
