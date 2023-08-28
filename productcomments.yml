@@ -37,3 +37,6 @@ v5.0.3:
 v6.0.0:
     min: 1.7.6
     max: null
+v6.0.1:
+    min: 1.7.7
+    max: null
