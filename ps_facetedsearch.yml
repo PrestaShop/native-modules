@@ -70,6 +70,9 @@ v3.13.2:
 v3.14.0:
     min: 1.7.6.0
     max: null
+v3.14.1:
+    min: 1.7.6.0
+    max: null
 v3.2.0:
     min: 1.7.1.0
     max: null
