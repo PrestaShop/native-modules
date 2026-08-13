@@ -10,3 +10,6 @@ v2.0.2:
 v2.1.0:
     min: 1.7.1.0
     max: null
+v3.0.0:
+    min: 8.2.0
+    max: null
