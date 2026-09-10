@@ -139,3 +139,6 @@ v5.0.0:
 v5.0.1:
     min: 8.2.0
     max: null
+v5.1.0:
+    min: 8.2.0
+    max: null
